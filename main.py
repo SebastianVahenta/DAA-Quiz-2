@@ -4,7 +4,7 @@ from utils.generate_grid import generate_grid
 from utils.print_maze import print_maze
 from utils.carve import carve
 from utils.modify import modify
-from algorithms.dijkstra_maze_solver import dijkstra_maze_solver
+from algorithms.dijkstra import dijkstra
 
 def main():
 
