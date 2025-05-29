@@ -1,5 +1,5 @@
 
-# DAA Quiz 2 – Maze Maker & Solver
+# DAA Quiz 2 – Maze Generator & Solver
 ## Group Member
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
