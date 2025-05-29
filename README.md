@@ -13,11 +13,11 @@ This project uses DFS and Dijkstra to generate and solve a maze using python in 
 - Generate a grid in the matrix with 1's which representes paths that the algorithm will be able to follow
 - Using DFS we "carve" the maze generating paths between spaces in the grid which, seen from a graph approach, the spaces in the grid are nodes, the objective is to connect this nodes.
 
-For the solution part, we use Dijksta
+For the solution part, we use Dijkstra
 
 #### Dijkstra
 
-Dijkstra's algorithm allows us to find the shortest path between any two vertices of a graph. Djikstra used this property in the opposite direction i.e we overestimate the distance of each vertex from the starting vertex. Then we visit each node and its neighbors to find the shortest subpath to those neighbors.
+Dijkstra's algorithm allows us to find the shortest path between any two vertices of a graph. Dijkstra used this property in the opposite direction i.e we overestimate the distance of each vertex from the starting vertex. Then we visit each node and its neighbors to find the shortest subpath to those neighbors.
 
 The algorithm uses a greedy approach in the sense that we find the next best solution hoping that the end result is the best solution for the whole problem. 
 
