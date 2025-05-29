@@ -1,5 +1,3 @@
-import time
-
 from utils.generate_grid import generate_grid
 from utils.print_maze import print_maze
 from utils.carve import carve
@@ -22,9 +20,7 @@ def main():
   maze_for_dijkstra = maze.copy()
 
   print("Solved maze with Dijkstra:")
-  start_time_dijkstra = time.time()
   dijkstra_maze_solver(maze_for_dijkstra, [1, 1], [m-2, n-2])
-  print("Execution time Dijkstra: %s seconds" % (time.time() - start_time_dijkstra))
   print_maze(maze_for_dijkstra)
 
 if __name__ == "__main__":
