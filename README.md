@@ -1,5 +1,9 @@
 
-### What does this project do?
+# DAA Quiz 2 – Maze Maker & Solver
+## Group Member
+- Sebastian
+- Izzud
+- Bayu
 
 This project uses DFS and Dijkstra to generate and solve a maze using python in an easy way, to generate the maze we follow the following steps:
 
