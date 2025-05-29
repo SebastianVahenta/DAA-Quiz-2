@@ -1,9 +1,9 @@
 
 # DAA Quiz 2 – Maze Maker & Solver
 ## Group Member
-- Sebastian
-- Izzud
-- Bayu
+Sebastian Vahenta Setjo  	- 5025231294
+Bayu Nismara Nagatama 	- 5025231152
+Izzudin Ali Akbari		- 5025231313
 
 This project uses DFS and Dijkstra to generate and solve a maze using python in an easy way, to generate the maze we follow the following steps:
 
